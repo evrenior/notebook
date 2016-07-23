@@ -1,3 +1,4 @@
+<!-- Notebook application as test task -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
