@@ -19,34 +19,34 @@
         <div class="page">
             <div class="expandingArea">
                 <pre><span></span><br></pre>
-		<textarea></textarea>
-		</div>
-	    </div>
-	    <div class="page">
-		<div class="expandingArea">
-		<pre><span></span><br></pre>
-		<textarea></textarea>
-		</div>
-	    </div>
-	    <div class="page">
-		<div class="expandingArea">
-		<pre><span></span><br></pre>
-		<textarea></textarea>
-		</div>
-	    </div>
-	    <div class="page">
-		<div class="expandingArea">
-		<pre><span></span><br></pre>
-		<textarea></textarea>
-		</div>	        
-	    </div>
-	    <div class="page">
-		<div class="expandingArea">
-		<pre><span></span><br></pre>
-		<textarea></textarea>
-		</div>
-	    </div>
-	</div>
-	<script src="js/main.js"></script>
+                    <textarea></textarea>
+            </div>
+        </div>
+        <div class="page">
+            <div class="expandingArea">
+                <pre><span></span><br></pre>
+                <textarea></textarea>
+            </div>
+        </div>
+        <div class="page">
+            <div class="expandingArea">
+                <pre><span></span><br></pre>
+                <textarea></textarea>
+            </div>
+        </div>
+        <div class="page">
+            <div class="expandingArea">
+                <pre><span></span><br></pre>
+                <textarea></textarea>
+            </div>	        
+        </div>
+        <div class="page">
+            <div class="expandingArea">
+                <pre><span></span><br></pre>
+                <textarea></textarea>
+            </div>
+        </div>
+    </div>
+    <script src="js/main.js"></script>
 </body>
 </html>
